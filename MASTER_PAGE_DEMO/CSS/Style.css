@@ -1,0 +1,10 @@
+﻿.wrapper 
+{
+    margin:auto;
+    border:5px ridge black;
+    width: 900px;
+}
+h3,h4,p
+{
+    text-align:center;
+}
